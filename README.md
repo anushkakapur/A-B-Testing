@@ -1,2 +1,2 @@
-# A-B-Testing
-Performed A-B tests for a class in Masters program. 
+# A/B-Testing
+Demonstration of A/B testing
