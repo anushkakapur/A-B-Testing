@@ -1,2 +1,4 @@
 # A/B-Testing
-Demonstration of A/B testing
+Performed A-B testing in Python to ascertain which marketing campaign promotion performed better. 
+
+The code walks through the various steps to perform an A-B test.
