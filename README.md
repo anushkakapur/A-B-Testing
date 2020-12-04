@@ -1,4 +1,5 @@
-# A/B-Testing
-Performed A-B testing in Python to ascertain which marketing campaign promotion performed better. 
+A/B testing is a way to compare two versions of things to figure out which performs better. These things could range from websites, applicatons or marketing campaigns. 
 
-The code walks through the various steps to perform an A-B test.
+This repository contains the steps to perform A-B tests in Python to ascertain which marketing promotion performed better. 
+
+
